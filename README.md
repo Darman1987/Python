@@ -22,7 +22,7 @@
 `pip freeze` *: view your global Python packages installed*
 
 
-### [1. Example using matplotlib](Python/1.matplot) 
+### [1. Example using matplotlib](Python/tree/1.matplot) 
 >**Create** a file called generate_graph.py
 
 `pip install matplotlib` *: install matplotlib*
