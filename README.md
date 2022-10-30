@@ -27,7 +27,5 @@
 
 `pip install matplotlib` *: install matplotlib*
 
->**Execute** file
-
-`python generate_graph.py`
+`python generate_graph.py` *: run script*
 
