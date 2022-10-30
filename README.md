@@ -1,14 +1,20 @@
 # Python
 [Website](https://www.python.org/)
 
+### Install python in windows
+
 **download** python -  **install** - advanced options - **check** add python to environment variables
 
- ```python -- version``` : version python 
+**Commands**
 
->Install pip  linux : 
+ `python -- version` : version python 
 
+ ### Install pip  linux
+
+```
 sudo apt update
 sudo apt install python3-pip
+ ```
 
 
  pip --version :version python package installer 
