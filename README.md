@@ -3,24 +3,30 @@
 
 ### Install python in windows
 
-**download** python -  **install** - advanced options - **check** add python to environment variables
+>**download** python -  **install** python - **go to** advanced options - **check** add python to environment variables
 
-
-
-> `python -- version` : version python 
+`python -- version` *: version python*
 
  ### Install pip  linux
 
-```
-sudo apt update
-sudo apt install python3-pip
- ```
+`sudo apt update`
+
+`sudo apt install python3-pip`
+ 
+### Commands
+
+`pip --version` *: version python package installer*
+
+`pip list`  *: lists all of the packages you have installed*
+
+`pip freeze` *: view your global Python packages installed*
 
 
- pip --version :version python package installer 
+## 1. Example using matplotlib 
+>**Create** a file called generate_graph.py
 
-pip install matplotlib : install matplotlib
+`pip install matplotlib` *: install matplotlib*
 
-pip list  : lists all of the packages you have installed
+>**Execute**
+`python generate_graph.py`
 
-pip freeze : view your global Python packages installed
