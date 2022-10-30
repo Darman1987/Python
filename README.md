@@ -5,27 +5,45 @@
 
 >**download** python -  **install** python - **go to** advanced options - **check** add python to environment variables
 
-`python -- version` *: version python*
+```console 
+python --version #version python
+``` 
+
 
  ### Install pip  linux
 
-`sudo apt update`
+```console 
+sudo apt update
+sudo apt install python3-pip
+``` 
 
-`sudo apt install python3-pip`
  
 ### Commands
 
-`pip --version` *: version python package installer*
-
-`pip list`  *: lists all of the packages you have installed*
-
-`pip freeze` *: view your global Python packages installed*
+```console 
+pip --version #version python package installer
+``` 
+```console 
+pip list #lists all of the packages you have installed
+``` 
+```console 
+pip freeze #view your global Python packages installed
+``` 
 
 
 ### [1. Example using matplotlib](https://github.com/Darman1987/Python/tree/1.matplot) 
 >**Create** a file called generate_graph.py
 
-`pip install matplotlib` *: install matplotlib*
+```console 
+pip install matplotlib #install matplotlib
+``` 
+```console 
+python generate_graph.py #run script
+``` 
 
-`python generate_graph.py` *: run script*
+
+
+
+
+
 
