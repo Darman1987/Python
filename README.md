@@ -3,9 +3,9 @@
 
 **download** python -  **install** - advanced options - **check** add python to environment variables
 
- `python -- version` : version python 
+ ```python -- version``` : version python 
 
-Install pip  linux : 
+>Install pip  linux : 
 
 sudo apt update
 sudo apt install python3-pip
