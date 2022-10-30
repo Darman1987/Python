@@ -5,9 +5,9 @@
 
 **download** python -  **install** - advanced options - **check** add python to environment variables
 
-**Commands**
 
- `python -- version` : version python 
+
+> `python -- version` : version python 
 
  ### Install pip  linux
 
