@@ -1,7 +1,7 @@
 # Python
 [Website](https://www.python.org/)
 
-download python -  install - advanced options - check add python to environment variables
+**download** python -  **install** - advanced options - **check** add python to environment variables
 
 Respository
 
