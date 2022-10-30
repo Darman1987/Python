@@ -22,11 +22,12 @@
 `pip freeze` *: view your global Python packages installed*
 
 
-## 1. Example using matplotlib 
+### 1. Example using matplotlib 
 >**Create** a file called generate_graph.py
 
 `pip install matplotlib` *: install matplotlib*
 
->**Execute**
+>**Execute** file
+
 `python generate_graph.py`
 
